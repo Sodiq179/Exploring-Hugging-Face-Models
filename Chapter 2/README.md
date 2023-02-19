@@ -1,4 +1,4 @@
-## What happens in the pipe line function [Sentiment-Analysis]?
+## What happens in the Pipeline Function [Sentiment-Analysis]?
 This sections involves the breakdown of what happens in the pipeline function for a sentiment analysis use case.
 
 ```python
