@@ -1,5 +1,5 @@
 ## What happens in the pipe line function [Sentiment-Analysis]?
-This sections involves the breakdoen of what happens in the pipeline function for a sentiment analysis use case.
+This sections involves the breakdown of what happens in the pipeline function for a sentiment analysis use case.
 
 ```python
 from transformers import pipeline
@@ -13,7 +13,7 @@ classifier(
 )
 ```
 
-and obtained:
+Output:
 
 ```python out
 [{'label': 'POSITIVE', 'score': 0.9598047137260437},
